@@ -1,0 +1,103 @@
+{
+  "users": {
+    "1426574816336678914": {
+      "gems": 1441770489,
+      "wagered": 702030053,
+      "profit": 441789042,
+      "deposited": 2000000100,
+      "withdrawn": 1000000000,
+      "robloxId": 10916243,
+      "robloxUsername": "jandel"
+    },
+    "1072713626487619705": {
+      "gems": 1504030852,
+      "wagered": 4251700600,
+      "profit": -495969650,
+      "deposited": 2000000000,
+      "withdrawn": 0,
+      "robloxId": 409669473,
+      "robloxUsername": "promanBeastboy2"
+    },
+    "1491075899506819162": {
+      "gems": 500
+    },
+    "816337686825533481": {
+      "gems": 48591,
+      "wagered": 30003,
+      "profit": 8000,
+      "deposited": 1000100000000000,
+      "withdrawn": 1000100000000000,
+      "robloxId": 151848836,
+      "robloxUsername": "haz3mn"
+    },
+    "1469603742369190101": {
+      "gems": 4750990,
+      "wagered": 4952800550,
+      "profit": -441249505,
+      "deposited": 451000000,
+      "withdrawn": 5000000,
+      "robloxId": 5723432079,
+      "robloxUsername": "NoobtoPro32385"
+    },
+    "1176307776285323317": {
+      "gems": 0,
+      "wagered": 2900500,
+      "profit": -1000500,
+      "deposited": 1000000,
+      "withdrawn": 0
+    },
+    "1123346089148436581": {
+      "gems": 17950005,
+      "wagered": 40000500,
+      "profit": -1050500,
+      "deposited": 19000000,
+      "withdrawn": 0
+    },
+    "1201483732658430033": {
+      "gems": 0,
+      "wagered": 0,
+      "profit": 0,
+      "deposited": 0,
+      "withdrawn": 0
+    }
+  },
+  "admins": [
+    "1426574816336678914",
+    "1072713626487619705"
+  ],
+  "staffChannelId": "1290135522597146784",
+  "pendingWithdrawals": {},
+  "bounties": {
+    "1072713626487619705": {
+      "amount": 1000,
+      "placedBy": "1426574816336678914",
+      "placedAt": 1775726690857
+    },
+    "1469603742369190101": {
+      "amount": 19000,
+      "placedBy": "816337686825533481",
+      "placedAt": 1775726966692
+    },
+    "1426574816336678914": {
+      "amount": 1,
+      "placedBy": "816337686825533481",
+      "placedAt": 1775728168081
+    }
+  },
+  "inventories": {
+    "1426574816336678914": {
+      "titanic_mucki": 1,
+      "huge_cat": 1
+    },
+    "816337686825533481": {
+      "titanic_mucki": 99
+    }
+  },
+  "itemMetadata": {
+    "titanic_mucki": {
+      "name": "Titanic Mucki",
+      "value": 0,
+      "icon": null
+    }
+  }
+}
